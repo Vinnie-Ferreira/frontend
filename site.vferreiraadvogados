@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<title>V.Ferreira Advogados</title>
+	<meta content="" name="descriptison"><meta content="" name="keywords"><!-- Favicons -->
+	<link href="assets/img/favicon.png" rel="icon" />
+	<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" /><!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" /><!-- Vendor CSS Files -->
+	<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet" />
+	<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+	<link href="assets/vendor/venobox/venobox.css" rel="stylesheet" />
+	<link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet" />
+	<link href="assets/vendor/aos/aos.css" rel="stylesheet" /><!-- Template Main CSS File -->
+	<link href="assets/css/style.css" rel="stylesheet" /><!-- =======================================================
+  ======================================================== -->
+</head>
+<body><!-- ======= Top Bar ======= -->
+<div class="d-none d-lg-flex align-items-center fixed-top " id="topbar">
+<div class="container d-flex">
+<div class="contact-info mr-auto"><a href="mailto:v.ferreira@vferreiraadvogados.com">&nbsp;</a></div>
+
+<div class="social-links"></div>
+</div>
+</div>
+<!-- ======= Header ======= -->
+
+<header class="fixed-top " id="header">
+<div class="container d-flex align-items-center"><img alt="" longdesc="index.html" src="/assets/img/logo branca.png" style="width: 195px; height: 65px;" /> <!-- Uncomment below if you prefer to use an image logo --> <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+<nav class="nav-menu d-none d-lg-block">
+<ul>
+	<li class="active"><a href="index.html">Home</a></li>
+	<li><a href="#about">Quem somos</a></li>
+	<li><a href="#services">Atua&ccedil;&atilde;o</a></li>
+	<li><a href="#team">Nosso time</a></li>
+	<li><a href="#contact">Contato</a></li>
+</ul>
+</nav>
+<!-- .nav-menu --></div>
+</header>
+<!-- End Header --><!-- ======= Hero Section ======= -->
+
+<section class="d-flex align-items-center" id="hero">
+<div class="container position-relative" data-aos="fade-up" data-aos-delay="500">&nbsp;
+<div style="text-align: center;"><img alt="V.Ferreira" class="img-fluid" src="/assets/img/logo branca.png" style="width: 500px; height: 168px;" title="VFerreira" /></div>
+
+<h2>Excel&ecirc;ncia em Direito Imobili&aacute;rio.</h2>
+<a class="btn-get-started scrollto" href="#about">Quem somos</a></div>
+</section>
+<!-- End Hero -->
+
+<main id="main"><!-- ======= About Section ======= -->
+<section class="about" id="about">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left"><img class="img-fluid" src="/assets/img/sala.jpeg" style="width: 810px;" /></div>
+
+<div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
+<h3>Solu&ccedil;&otilde;es inovadoras para problemas antigos.</h3>
+
+<ul>
+	<li><i>Um dos mais tradicionais ramos do Direito &eacute; tamb&eacute;m profundamente din&acirc;mico.</i></li>
+	<li>As cidades se comportam como organismos vivos e em constante evolu&ccedil;&atilde;o. Para atender &agrave;s demandas decorrentes&nbsp; desse movimento, o Direito Imobili&aacute;rio exige constante atualiza&ccedil;&atilde;o.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
+	<li>Contando com mais de 10 anos de atua&ccedil;&atilde;o, V.Ferreira Advogados &eacute; refer&ecirc;ncia em Direito Imobili&aacute;rio.</li>
+	<li>Com moderna vis&atilde;o pr&oacute;-neg&oacute;cio e foco no melhor resultado para o cliente, buscamos, sem medir esfor&ccedil;os, solu&ccedil;&otilde;es r&aacute;pidas e eficientes.</li>
+</ul>
+
+<p></p>
+</div>
+</div>
+</div>
+</section>
+<!-- End About Section --><!-- ======= Why Us Section ======= -->
+
+<section class="why-us" id="why-us">
+<div class="container">
+<div class="row">
+<div class="col-lg-4" data-aos="fade-up">
+<div class="box"><span>01</span>
+
+<h4>Experi&ecirc;ncia</h4>
+
+<p>Com&nbsp;profissionais experientes e com s&oacute;lida forma&ccedil;&atilde;o, contamos com um time multidisciplinar capaz de encontrar solu&ccedil;&otilde;es inovadoras para as quest&otilde;es mais diversas.</p>
+</div>
+</div>
+
+<div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
+<div class="box"><span>02</span>
+
+<h4>Foco no cliente</h4>
+
+<p>As solu&ccedil;&otilde;es oferecidas buscam sempre oferecer o melhor panorama para o cliente.&nbsp;&nbsp;Abandonado a antiga vis&atilde;o de avers&atilde;o ao risco, buscamos viabilizar o neg&oacute;cio maximizando os resultados.</p>
+</div>
+</div>
+
+<div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+<div class="box"><span>03</span>
+
+<h4>Qualidade.</h4>
+
+<p>Para todo problema h&aacute; uma solu&ccedil;&atilde;o, esse lema &eacute; o que nos possibilita criar solu&ccedil;&otilde;es inovadoras e eficazes.</p>
+
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- End Why Us Section --><!-- ======= Clients Section ======= -->
+
+<section class="clients" id="clients">
+<div class="container" data-aos="zoom-in">
+<div class="row d-flex align-items-center">
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-1.png" /></div>
+
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-2.png" /></div>
+
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-3.png" /></div>
+
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-4.png" /></div>
+
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-5.png" /></div>
+
+<div class="col-lg-2 col-md-4 col-6"><img alt="" class="img-fluid" src="assets/img/clients/client-6.png" /></div>
+</div>
+</div>
+</section>
+<!-- End Clients Section --><!-- ======= Services Section ======= -->
+
+<section class="services" id="services">
+<div class="container">
+<div class="section-title"><span>atua&ccedil;&atilde;o</span>
+
+<h2>atua&ccedil;&atilde;o</h2>
+
+<p>Com um time multidisciplinar, oferecemos um departamento jur&iacute;dico completo:</p>
+</div>
+
+<div class="row">
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+<div class="icon-box">
+<h4><a href="">Advocacia imobili&aacute;ria</a></h4>
+
+<p>Atuamos em todos os &acirc;mbitos do Direito Urban&iacute;stico e Imobili&aacute;rio. Contamos com vasta experi&ecirc;ncia tanto em &acirc;mbito consultivo quanto contencioso em diversos setores e atuamos intensamente com diversas quest&otilde;es que envolvem o segmento imobili&aacute;rio como atraso na entrega de im&oacute;vel, desist&ecirc;ncia de compra de im&oacute;vel, cobran&ccedil;a de taxas abusivas como SATI e corretagem, contratos imobili&aacute;rios, loca&ccedil;&atilde;o, condom&iacute;nios, usucapi&atilde;o, entre outros.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
+<div class="icon-box">
+<h4><a href="">Assessoria jur&iacute;dica para condom&iacute;nios</a></h4>
+
+<p>Oferecemos todo o suporte jur&iacute;dico necess&aacute;rio como presen&ccedil;a em assembleias;&nbsp; consultoria jur&iacute;dica para o s&iacute;ndico; cobran&ccedil;a de cotas condominiais; tanto judicial quanto extra; a&ccedil;&otilde;es em face de concession&aacute;rias como CEDAE e elabora&ccedil;&atilde;o de documentos como ata; conven&ccedil;&otilde;es de condom&iacute;no e regimento interno e a institui&ccedil;&atilde;o/regulariza&ccedil;&atilde;o de condom&iacute;nios.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+<div class="icon-box">
+<h4><a href="">Direito Notarial e Registral</a></h4>
+
+<p>Prestamos o suporte necess&aacute;rio em todos&nbsp;os procedimentos extrajudicias como regulariza&ccedil;&atilde;o de im&oacute;veis, invent&aacute;rios, div&oacute;rcios, usucapi&atilde;o, averba&ccedil;&otilde;es e registros.&nbsp; &nbsp; &nbsp;</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
+<div class="icon-box">
+<h4><a href="">Sucess&otilde;es&nbsp;</a></h4>
+
+<p>O Direito Sucess&oacute;rio vai muito al&eacute;m de invent&aacute;rios judiciais intermin&aacute;veis. V.Ferreira Advogados atua de forma c&eacute;lere e criativa.</p>
+
+<p>Assessoramos nossos clientes no planejamento sucess&oacute;rio, elabora&ccedil;&atilde;o de documentos e tr&acirc;mites cartor&aacute;rios.</p>
+
+<p>Os invent&aacute;rios&nbsp; &nbsp;muitas vezes podem ser resolvidos atrav&eacute;s de uma escritura&nbsp; e o que antes levaria d&eacute;cadas, hoje pode ser conclu&iacute;do em quest&atilde;o de dias.</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
+<div class="icon-box">
+<h4><a href="">Advocacia c&iacute;vel&nbsp;</a></h4>
+
+<p>Atuamos defendendo os interesses de pessoas fisicas e jur&iacute;dicas em a&ccedil;&otilde;es judiciais em &acirc;mbito c&iacute;vel al&eacute;m da elabora&ccedil;&atilde;o, revis&atilde;o e an&aacute;lise de contratos, pareceres e outros documentos.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
+<div class="icon-box">
+<h4><a href="">Direito de Fam&iacute;lia&nbsp;</a></h4>
+
+<p>O Direito vem sofrendo uma profunda transforma&ccedil;&atilde;o oriunda da mudan&ccedil;a de paradigmas da sociedade brasileira, de modo que&nbsp;</p>
+
+<p>o pr&oacute;prio conceito de fam&iacute;lia passou por reformula&ccedil;&otilde;es.</p>
+
+<p>Sens&iacute;veis a essas mudan&ccedil;as, atuamos de forma conciliadora e focados na busca pelas melhores solu&ccedil;&otilde;es para as mais diversas quest&otilde;es apresentadas.</p>
+
+<p>O Direito de Fam&iacute;lia exige uma postura diferenciada do advogado que precisa atuar de forma confi&aacute;vel, seria,&nbsp; compreensiva e, principalmente, discreta.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- End Services Section --><!-- ======= Cta Section ======= -->
+
+<section class="cta" id="cta">
+<div class="container" data-aos="zoom-in">
+<div class="text-center">
+<h3>Jur&iacute;dico Estrat&eacute;gico</h3>
+
+<p>O jur&iacute;dico estrat&eacute;gico &eacute; uma vis&atilde;o moderna e eficiente que proporciona uma atua&ccedil;&atilde;o hol&iacute;stica integrando as demandas do cliente&nbsp; com o jur&iacute;dico. Esse novo m&eacute;todo permite identificar os focos de problemas e, assim, atac&aacute;-los antes mesmo que se apresentem. Diferente da advocacia tradicional, o jur&iacute;dico estrat&eacute;gico exige um atendimento personalizado e um v&iacute;nculo entre cliente e advogado.</p>
+<a class="cta-btn" href="#">Entre em contato!</a></div>
+</div>
+</section>
+<!-- End Cta Section --><!-- ======= Team Section ======= -->
+
+<section class="team" id="team">
+<div class="container">
+<div class="section-title"><span style="color: #f4f4f4;">Time</span>
+
+<h2>Nosso time</h2>
+
+<p>Nosso time &eacute; formado por profissionais p&oacute;s-graduados nas mais respeitadas institui&ccedil;&otilde;es no Brasil e no exterior:</p>
+</div>
+
+<div class="row">
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-1.jpeg" style="width: 160px; height: 160px;" />
+<h4>Vin&iacute;cius Ferreira</h4>
+<span>CEO</span>
+
+<p>Advogado inscrito h&aacute; mais de 10 anos na OAB/RJ, onde &eacute; membro da Comiss&atilde;o de Direito Urban&iacute;stico e Imobili&aacute;rio. Membro do Instituto Brasileiro de Direito Imobili&aacute;rio no qual &eacute; membro das comiss&otilde;es de Direito Condominial e Norarial e Registral. P&oacute;s-graduado em Direito Processual Civil pela UCAM LL.M. em Direito Empresarial e especializa&ccedil;&atilde;o em Direito Imobili&aacute;rio pela FGV .</p>
+
+<div class="social"></div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-2.jpg" style="width: 160px; height: 160px;" />
+<h4>Cristiana Maia</h4>
+<span>Consultora</span>
+
+<p>Advogada membro do IAB, onde integra a comiss&atilde;o de Direito Digital e Governan&ccedil;a e Compliance. Especialista em Direito do Estado e Regula&ccedil;&atilde;o pela FGV e Direito Processual Civil pela UCAM e direito digital pela EMERJ. Possui certifica&ccedil;&atilde;o em seguran&ccedil;a da informa&ccedil;&atilde;o e privacidade pela EXIN (ISFS, PDPE, PDPF)</p>
+
+<div class="social"></div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-3.jpeg" style="width: 160px; height: 160px;" />
+<h4>Luiz Mantovani</h4>
+<span>S&oacute;cio</span>
+
+<p>Advogado membro da OAB/RJ na qual atua como Delegado e integra a comiss&atilde;o de Defesa das Prerrogativasas do Advogado.</p>
+
+<div class="social"></div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-4.jpeg" style="width: 160px; height: 160px;" />
+<h4>Alexandra Joinhas</h4>
+<span>Associada</span>
+
+<p>Advogada com profunda experi&ecirc;ncia nas &aacute;reas tribut&aacute;ria, imobili&aacute;ria e empresarial .</p>
+
+<div class="social"></div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-5.jpeg" style="width: 160px; height: 160px;" />
+<h4>Filomena Baptista</h4>
+<span>Coordenadora</span>
+
+<p>Advogada coordenadora da unidade referente &agrave; Regi&atilde;o Serrana. P&oacute;s graduada em Direito do consumidor e imobili&aacute;rio, possui mais de 25 anos de experi&ecirc;ncia nas &aacute;reas imobili&aacute;ria, consumerista e internacional.</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<div class="social"></div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+<div class="member"><img alt="" class="rounded-circle" src="/assets/img/team/team-6.png" style="width: 160px; height: 160px;" />
+<h4>Diogo Sanches</h4>
+<span>Consultor</span>
+
+<p>Engenheiro de Produ&ccedil;&atilde;o e Civil com mestrado em Economia pela UFRJ, especialista em Gerenciamento de Projetos&nbsp; certificado Black Belt 6-sigma. Possui viv&ecirc;ncia em grandes multinacionais como Huawei e Autran.</p>
+
+<p></p>
+
+<p>&nbsp;&nbsp;</p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<div class="social"></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- End Team Section --><!-- ======= Contact Section ======= -->
+
+<section class="contact" id="contact">
+<div class="container">
+<div class="section-title"><span>Contato</span>
+
+<h2>Contato</h2>
+
+<p>Entre em contato e agende uma visita em uma das nossas unidades ou telepresencial.</p>
+</div>
+
+<div class="row" data-aos="fade-up">
+<div class="col-lg-6">
+<div class="info-box mb-4">
+<h3>Nossas unidades</h3>
+
+<p>Av. Rio Branco, 181, sl. 3502, Centro, CEP 20040918</p>
+
+<p>Av. das Am&eacute;ricas, 8585, sl. 384, Shopping Vogue Square,Barra da Tijuca, CEP 22793-081</p>
+
+<p></p>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6">
+<div class="info-box  mb-4">
+<h3>Email</h3>
+
+<p>v.ferreira@vferreiraadvogados.com</p>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6">
+<div class="info-box  mb-4">
+<h3>Telefone/Whatsapp</h3>
+
+<p>(21) 994770468</p>
+</div>
+</div>
+</div>
+
+<div class="row" data-aos="fade-up">
+<div class="col-lg-6 "><iframe allowfullscreen="" class="mb-4 mb-lg-0" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.673541578905!2d-43.39717426883229!3d-22.99902921515073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb8326619bb9%3A0x75ad859cbc7c83ec!2sAv.%20das%20Am%C3%A9ricas%2C%208585%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%2022793-081!5e0!3m2!1sen!2sbr!4v1605726354855!5m2!1sen!2sbr" style="border:0; width: 100%; height: 384px;"></iframe></div>
+
+<div class="col-lg-6">
+<form action="forms/contact.php" class="php-email-form" method="post" role="form">
+<div class="form-row">
+<div class="col-md-6 form-group"><input class="form-control" data-msg="Please enter at least 4 chars" data-rule="minlen:4" id="name" name="name" placeholder="Your Name" type="text" /></div>
+
+<div class="col-md-6 form-group"><input class="form-control" data-msg="Please enter a valid email" data-rule="email" id="email" name="email" placeholder="Your Email" type="email" /></div>
+</div>
+
+<div class="form-group"><input class="form-control" data-msg="Please enter at least 8 chars of subject" data-rule="minlen:4" id="subject" name="subject" placeholder="Subject" type="text" /></div>
+
+<div class="form-group"><textarea class="form-control" data-msg="Please write something for us" data-rule="required" name="message" placeholder="Message" rows="5"></textarea></div>
+
+<div class="mb-3">
+<div class="loading">Enviando...</div>
+
+<div class="sent-message">Sua mensagem foi enviada. Obrigado!</div>
+</div>
+
+<div class="text-center"><button type="submit">Send Message</button></div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<!-- End Contact Section --></main>
+<!-- End #main --><!-- ======= Footer ======= -->
+
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="footer-info">
+<h3>V.Ferreira</h3>
+<span style="font-family: &quot;Raleway&quot;,sans-serif;">Av. Rio Branco, 181, sl. 3502, Centro</span>
+
+<p>Av. das Am&eacute;ricas, 8585, sala 387, Barra da Tijuca<br />
+<br />
+<strong>Telefone:</strong> +1 5521 994770468<br />
+<strong>Email:</strong> v.ferreira@vferreiraadvogados.com</p>
+
+<div class="social-links mt-3"></div>
+</div>
+</div>
+
+<div class="col-lg-2 col-md-6 footer-links"></div>
+
+<div class="col-lg-4 col-md-6 footer-newsletter">
+<h4>Newsletter</h4>
+
+<p>Assine para receber novidades do mundo jur&iacute;dico!</p>
+
+<form action="" method="post"><input name="email" type="email" /><input type="submit" value="Assine!" /></form>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="copyright">&copy; V.Ferreira Advogados</div>
+
+<div class="credits">Designed by <a href="https://kalistudio.com.br/">Kali Studio</a></div>
+</div>
+</footer>
+<!-- End Footer --><!-- Vendor JS Files --><script src="assets/vendor/jquery/jquery.min.js"></script><script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script><script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script><script src="assets/vendor/php-email-form/validate.js"></script><script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script><script src="assets/vendor/venobox/venobox.min.js"></script><script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script><script src="assets/vendor/aos/aos.js"></script><!-- Template Main JS File --><script src="assets/js/main.js"></script></body>
+</html>
